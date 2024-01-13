@@ -1,0 +1,7 @@
+.main-image{
+    z-index: -1;
+    height: 80%;
+    width: 100%;
+    opacity: 0.9;
+    object-fit: cover;
+}
