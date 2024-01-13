@@ -1,0 +1,26 @@
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    padding: 10px 15px;
+    background-color: transparent;
+    justify-content: space-between;
+    height: 70px;
+    z-index: 2;
+}
+.nav-item{
+    color: black;
+    list-style: none;
+    font-size: 18px;
+}
+.nav-item:hover{
+    color: rgb(59, 125, 217);
+}
+.nav-list{
+    display: flex;
+    gap: 20px ;
+    padding-block-start: 0px;
+}
+.my-list{
+    gap: 20px;
+}
